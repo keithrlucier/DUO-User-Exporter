@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUO-MSP", "DUO-MSP.csproj", "{75BF8EC0-52CF-403C-9BA6-B840D8D45151}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "DUOMSI", "..\DUOMSI\DUOMSI.wixproj", "{46535AE5-4ADF-4CC7-9229-D599713A96D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|x86 = All|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DUO Reporter v1.1|Any CPU = DUO Reporter v1.1|Any CPU
+		DUO Reporter v1.1|x86 = DUO Reporter v1.1|x86
+		DUO Reporter v1|Any CPU = DUO Reporter v1|Any CPU
+		DUO Reporter v1|x86 = DUO Reporter v1|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.All|Any CPU.Build.0 = Release|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.All|x86.ActiveCfg = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.All|x86.Build.0 = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Debug|x86.Build.0 = Debug|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1.1|Any CPU.ActiveCfg = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1.1|Any CPU.Build.0 = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1.1|x86.ActiveCfg = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1.1|x86.Build.0 = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1|Any CPU.ActiveCfg = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1|Any CPU.Build.0 = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1|x86.ActiveCfg = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.DUO Reporter v1|x86.Build.0 = DUO Reporter v1|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Release|x86.ActiveCfg = Release|Any CPU
+		{75BF8EC0-52CF-403C-9BA6-B840D8D45151}.Release|x86.Build.0 = Release|Any CPU
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.All|Any CPU.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.All|Any CPU.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.All|x86.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.All|x86.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Debug|Any CPU.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Debug|x86.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Debug|x86.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1.1|Any CPU.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1.1|Any CPU.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1.1|x86.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1.1|x86.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1|Any CPU.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1|Any CPU.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1|x86.ActiveCfg = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.DUO Reporter v1|x86.Build.0 = Debug|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Release|Any CPU.ActiveCfg = Release|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Release|Any CPU.Build.0 = Release|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Release|x86.ActiveCfg = Release|x86
+		{46535AE5-4ADF-4CC7-9229-D599713A96D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8006EA-8D18-4554-96F1-ED65568606B4}
+	EndGlobalSection
+EndGlobal
