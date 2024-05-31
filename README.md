@@ -1,6 +1,4 @@
-# DUO User Exporter
-
-![DUO User Exporter](https://pro-source-demo.s3.amazonaws.com/ProSource+logo_600_120.png) <!-- Placeholder for a header image -->
+# DUO User Exporter 
 
 **DUO User Exporter** is a simple and efficient executable solution designed for querying any DUO tenant configured in the application and exporting user data to a CSV file. The application supports pagination, allowing it to handle more than 100 users seamlessly. You can specify the output filename and path, and add multiple tenants in the configuration file. The solution is ideal for running as a scheduled task, ensuring regular data exports without manual intervention. The installer is currently being refined for an even smoother setup process.
 
