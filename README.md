@@ -1,4 +1,5 @@
-# DUO User Exporter
+# Keith Lucier
+DUO User Exporter
 
 ![DUO User Exporter](https://pro-source-demo.s3.amazonaws.com/ProSource+logo_600_120.png) <!-- Placeholder for a header image -->
 
